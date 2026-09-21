@@ -1,7 +1,7 @@
 # Codigos-laboratorio-4
 
 ## Código de prueba del sensor Touch
-#include <Wire.h>
+``` #include <Wire.h>
 #include <Adafruit_GFX.h>
 #include <Adafruit_SH110X.h>
 
@@ -65,4 +65,4 @@ void loop() {
   display.display();
 
   delay(100);
-}
+} ```
